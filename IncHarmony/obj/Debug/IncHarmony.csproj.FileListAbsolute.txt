@@ -1,0 +1,16 @@
+C:\PRV\Kod\Studia\IncHarmony\bin\Debug\IncHarmony.exe.config
+C:\PRV\Kod\Studia\IncHarmony\bin\Debug\IncHarmony.exe
+C:\PRV\Kod\Studia\IncHarmony\bin\Debug\IncHarmony.pdb
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.Properties.Resources.resources
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.csproj.GenerateResource.cache
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.csproj.CoreCompileInputs.cache
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.exe
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.pdb
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.Login_Screen.resources
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.Welcome_Screen.resources
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\Interop.WMPLib.dll
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.csproj.ResolveComReference.cache
+C:\PRV\Kod\Studia\IncHarmony\bin\Debug\Interop.WMPLib.dll
+C:\PRV\Kod\Studia\IncHarmony\bin\Debug\AxInterop.WMPLib.dll
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\IncHarmony.csprojAssemblyReference.cache
+C:\PRV\Kod\Studia\IncHarmony\obj\Debug\AxInterop.WMPLib.dll
